@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 4 avr. 2018, 10:40:58
+    Author     : morad
+*/
+@font-face
+{
+    font-family: 'Dayrom';
+    src: url('police/dayrom.ttf');
+}
+
+.menu
+{
+    margin-top: 10px;
+}
+
+.menu_plan
+{
+    background-color: rgb(80,80,80);
+}
+
+nav a
+{
+    font-family: Dayrom;
+    font-size: 1.1em;    
+}
+
+#admin
+{
+    height: 35px;
+    text-align: center;
+    margin-top: -12px;
+    margin-bottom: -10px;
+    font-weight: bold;
+}
